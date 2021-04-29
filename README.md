@@ -3,7 +3,7 @@
 
 # wat now? 
 
-Poems made from the *dirtiest& OCR data available from the Library of Congress's [Chronicling America](https://chroniclingamerica.loc.gov/about/api/) dataset of historical Newspapers. 
+Poems made from the *dirtiest* OCR data available from the Library of Congress's [Chronicling America](https://chroniclingamerica.loc.gov/about/api/) dataset of historical Newspapers. 
 
 And by dirty, I mean OCR that looks like:
 
