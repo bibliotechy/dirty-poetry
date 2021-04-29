@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+spacy = "*"
+aiofile = "*"
+aiosqlite = "*"
+numpy = "*"
+pronouncing = "*"
+asyncpg = "*"
+psycopg2 = "*"
+
+[dev-packages]
+ipython = "*"
+spacy = "*"
+
+[requires]
+python_version = "3.9"
